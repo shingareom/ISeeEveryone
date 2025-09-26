@@ -1,0 +1,9 @@
+{
+  "cybercell": [
+    {
+      "port": 10990,
+      "hostname": "0.tcp.in.ngrok.io"
+    }
+  ]
+}
+
