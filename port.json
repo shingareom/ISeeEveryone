@@ -1,7 +1,7 @@
 {
   "cybercell": [
     {
-      "port": 18962,
+      "port": 13569,
       "hostname": "0.tcp.in.ngrok.io"
     }
   ]
